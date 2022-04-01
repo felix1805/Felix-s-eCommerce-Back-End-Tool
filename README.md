@@ -46,5 +46,10 @@ This application uses javascript, JEST, HTML, node.js, express routing, mysql2, 
 
 ## Links
 
-[Employee Tracker GitHub Link](https://felix1805.github.io/Felixs-eCommerce-Back-End-Tool/).
-[Video Demostration Link](https://youtu.be/zg8mPtgITRQ).
+[eCommerce back-end-tool GitHub Link](https://felix1805.github.io/Felixs-eCommerce-Back-End-Tool/).
+<br>
+
+[Video Demostration Link for MySQL Commands](https://youtu.be/RGLwrWZaAMs).
+<br>
+
+[Video Demostration of Insomnia Functionality](https://youtu.be/-9iPNwTxXro).
