@@ -22,7 +22,7 @@ This application was designed to funcion as a back end for a potential e-commerc
 
 ## Installation
 
-The application can be ran by performing an npm installation. Following the installation, the "npm start" command or "nodemon" command can be used to launch the API server which will then take in requests through the terminal or Insomnia.
+The application can be ran by performing an npm installation using the "npm i" command. Following the installation, the "npm start" command or "nodemon" command can be used to launch the API server which will then take in requests through the terminal or Insomnia.
 
 ## Usage
 
@@ -30,9 +30,9 @@ This application can be used to easily view, create, modify or delete products a
 
 Usage and Code Examples:
 
-![img](./assets/Routes_Example.JPG)
+![img](./Assets/Routes_Example.JPG)
 
-![img](./assets/Insomnia_Example.JPG)
+![img](./Assets/Insomnia_Example.JPG)
 
 
 ## Contributors
